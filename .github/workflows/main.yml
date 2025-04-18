@@ -22,7 +22,7 @@ jobs:
         root_file: 'instruction.tex'
         compiler: xelatex
     - name: Archive PDF
-      uses: actions/upload-artifact@v2
+      uses: actions/upload-artifact@v4
       with:
         name: instruction.pdf
         path: instruction.pdf
