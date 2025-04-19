@@ -1,12 +1,12 @@
-# Debian 小药盒
+# Arch 小药盒
 
 | 包装盒                     | 说明书                          |
 |:-------------------------:|:------------------------------:|
-| ![](./.readme/box_all.jpg) | ![](./.readme/instruction.jpg) |
+| ![](./.readme/box_all.png) | ![](./.readme/instruction.jpg) |
 
 ## 使用
 
-在 [release](https://github.com/moesoha/debian-media-box/releases/latest) 页面下载 PDF 或其他格式档案打印即可。
+在 [release](https://github.com/xyber-nova/arch-media-box/releases/latest) 页面下载 PDF 或其他格式档案打印即可。
 
 对于包装盒，建议使用足够大的 300g 铜版纸的光面打印出包装盒 TIF 文件（推荐）或者 PDF 文档的第一页，之后沿线裁下并粘胶折叠即可。（注意：喷墨打印机打光面铜版纸很容易掉色。）为了方便制作纸盒，有加入部分辅助线，如果感觉影响美观可以自行删去。
 
@@ -18,7 +18,9 @@
 
 ## 介绍
 
-这是一个用来包装 Debian 安装介质的盒子的平面设计。因为 Debian 的 logo 与某药品十分相似，此前就有类似的梗，如下图。
+这是一个用来包装 Arch 安装介质的盒子的平面设计，Fork 自 https://github.com/moesoha/debian-media-box。
+
+因为 Debian 的 logo 与戊酸雌二醇（一种跨性别药物）药品十分相似，此前就有类似的梗，如下图。
 
 ![梗](./.readme/inspiration.jpg)
 
@@ -33,6 +35,7 @@
   - Soha (包装盒与说明书的终稿)
   - YukariChiba (说明书创意与文案, [#3](https://github.com/moesoha/debian-media-box/issues/3))
   - IcesandSora (包装盒创意)
+  - Xyber Nova（二改）
   - 内容/样式优化：david4958606 (#13), Guochengjie (#15)
 
 ## LICENSE
