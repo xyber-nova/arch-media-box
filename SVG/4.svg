@@ -1,0 +1,871 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_图层_1" data-name="图层 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 238.11 240.94">
+  <defs>
+    <style>
+      .cls-1 {
+        letter-spacing: .04em;
+      }
+
+      .cls-2 {
+        opacity: .22;
+      }
+
+      .cls-2, .cls-3 {
+        fill: #208bc3;
+        fill-rule: evenodd;
+      }
+
+      .cls-4 {
+        letter-spacing: .05em;
+      }
+
+      .cls-5 {
+        letter-spacing: .01em;
+      }
+
+      .cls-6 {
+        letter-spacing: .02em;
+      }
+
+      .cls-7, .cls-8 {
+        letter-spacing: .03em;
+      }
+
+      .cls-9, .cls-10, .cls-11, .cls-12, .cls-13, .cls-14, .cls-15, .cls-16, .cls-17, .cls-18, .cls-19, .cls-20, .cls-21, .cls-22, .cls-8, .cls-23, .cls-24, .cls-25, .cls-26 {
+        font-family: SourceHanSansSC-Regular-GBpc-EUC-H, 'Source Han Sans SC';
+      }
+
+      .cls-9, .cls-27 {
+        letter-spacing: .04em;
+      }
+
+      .cls-28 {
+        letter-spacing: .01em;
+      }
+
+      .cls-29 {
+        letter-spacing: .04em;
+      }
+
+      .cls-30 {
+        letter-spacing: .01em;
+      }
+
+      .cls-31 {
+        letter-spacing: 0em;
+      }
+
+      .cls-32 {
+        letter-spacing: .02em;
+      }
+
+      .cls-33, .cls-18 {
+        letter-spacing: .04em;
+      }
+
+      .cls-34 {
+        letter-spacing: .02em;
+      }
+
+      .cls-10 {
+        letter-spacing: 0em;
+      }
+
+      .cls-35 {
+        letter-spacing: 0em;
+      }
+
+      .cls-36 {
+        fill: #fff;
+      }
+
+      .cls-37 {
+        letter-spacing: .02em;
+      }
+
+      .cls-38, .cls-39, .cls-40, .cls-41, .cls-42, .cls-43, .cls-44, .cls-45, .cls-46, .cls-47, .cls-48, .cls-49, .cls-50 {
+        font-family: SourceHanSansSCVF-Regular, 'Source Han Sans SC VF';
+        font-variation-settings: 'wght' 400;
+      }
+
+      .cls-38, .cls-51 {
+        letter-spacing: .02em;
+      }
+
+      .cls-52 {
+        letter-spacing: .03em;
+      }
+
+      .cls-53 {
+        letter-spacing: .03em;
+      }
+
+      .cls-54 {
+        font-size: 16px;
+      }
+
+      .cls-55 {
+        letter-spacing: .04em;
+      }
+
+      .cls-39 {
+        letter-spacing: .04em;
+      }
+
+      .cls-56 {
+        letter-spacing: .04em;
+      }
+
+      .cls-57 {
+        fill: #3971b8;
+      }
+
+      .cls-57, .cls-58, .cls-59, .cls-60 {
+        opacity: .1;
+      }
+
+      .cls-61 {
+        letter-spacing: .02em;
+      }
+
+      .cls-62 {
+        letter-spacing: .02em;
+      }
+
+      .cls-11 {
+        letter-spacing: .04em;
+      }
+
+      .cls-63 {
+        letter-spacing: .05em;
+      }
+
+      .cls-58 {
+        stroke: #e83518;
+        stroke-linejoin: round;
+      }
+
+      .cls-58, .cls-64, .cls-65 {
+        fill: none;
+        stroke-width: .5px;
+      }
+
+      .cls-59 {
+        fill: #45b8ea;
+      }
+
+      .cls-12, .cls-66 {
+        letter-spacing: .03em;
+      }
+
+      .cls-67 {
+        letter-spacing: .05em;
+      }
+
+      .cls-68 {
+        letter-spacing: -.26em;
+      }
+
+      .cls-69 {
+        letter-spacing: .02em;
+      }
+
+      .cls-70 {
+        letter-spacing: .03em;
+      }
+
+      .cls-71 {
+        letter-spacing: .01em;
+      }
+
+      .cls-72 {
+        letter-spacing: 0em;
+      }
+
+      .cls-73 {
+        letter-spacing: -.05em;
+      }
+
+      .cls-74 {
+        letter-spacing: .02em;
+      }
+
+      .cls-75 {
+        letter-spacing: .01em;
+      }
+
+      .cls-76 {
+        letter-spacing: 0em;
+      }
+
+      .cls-77 {
+        letter-spacing: .02em;
+      }
+
+      .cls-78 {
+        letter-spacing: .04em;
+      }
+
+      .cls-79 {
+        letter-spacing: .02em;
+      }
+
+      .cls-80 {
+        letter-spacing: 0em;
+      }
+
+      .cls-81 {
+        letter-spacing: .03em;
+      }
+
+      .cls-82, .cls-41 {
+        letter-spacing: .02em;
+      }
+
+      .cls-83 {
+        letter-spacing: .03em;
+      }
+
+      .cls-84 {
+        letter-spacing: .02em;
+      }
+
+      .cls-85 {
+        letter-spacing: 0em;
+      }
+
+      .cls-86 {
+        letter-spacing: -.29em;
+      }
+
+      .cls-87 {
+        fill: #005aab;
+      }
+
+      .cls-88 {
+        letter-spacing: .02em;
+      }
+
+      .cls-89 {
+        letter-spacing: .02em;
+      }
+
+      .cls-90 {
+        letter-spacing: .04em;
+      }
+
+      .cls-91 {
+        letter-spacing: 0em;
+      }
+
+      .cls-92 {
+        letter-spacing: .02em;
+      }
+
+      .cls-93 {
+        letter-spacing: .03em;
+      }
+
+      .cls-14 {
+        letter-spacing: .02em;
+      }
+
+      .cls-94 {
+        letter-spacing: .03em;
+      }
+
+      .cls-95 {
+        letter-spacing: .03em;
+      }
+
+      .cls-40, .cls-96 {
+        letter-spacing: .02em;
+      }
+
+      .cls-97 {
+        letter-spacing: .03em;
+      }
+
+      .cls-98 {
+        letter-spacing: -.26em;
+      }
+
+      .cls-99 {
+        letter-spacing: 0em;
+      }
+
+      .cls-100 {
+        letter-spacing: .01em;
+      }
+
+      .cls-101 {
+        letter-spacing: -.04em;
+      }
+
+      .cls-102 {
+        letter-spacing: -.31em;
+      }
+
+      .cls-15 {
+        letter-spacing: .02em;
+      }
+
+      .cls-103 {
+        letter-spacing: .03em;
+      }
+
+      .cls-104 {
+        letter-spacing: .02em;
+      }
+
+      .cls-105 {
+        letter-spacing: .04em;
+      }
+
+      .cls-106 {
+        letter-spacing: -.26em;
+      }
+
+      .cls-107 {
+        letter-spacing: -.25em;
+      }
+
+      .cls-108, .cls-46 {
+        letter-spacing: -.01em;
+      }
+
+      .cls-109 {
+        letter-spacing: .03em;
+      }
+
+      .cls-110 {
+        letter-spacing: 0em;
+      }
+
+      .cls-111 {
+        letter-spacing: .02em;
+      }
+
+      .cls-112, .cls-23 {
+        letter-spacing: .03em;
+      }
+
+      .cls-113 {
+        fill: #595757;
+      }
+
+      .cls-16, .cls-114, .cls-115, .cls-26 {
+        fill: #231815;
+      }
+
+      .cls-116 {
+        letter-spacing: -.27em;
+      }
+
+      .cls-117 {
+        letter-spacing: .02em;
+      }
+
+      .cls-42 {
+        letter-spacing: .01em;
+      }
+
+      .cls-118 {
+        letter-spacing: .02em;
+      }
+
+      .cls-119 {
+        letter-spacing: .04em;
+      }
+
+      .cls-120 {
+        letter-spacing: -.05em;
+      }
+
+      .cls-17 {
+        letter-spacing: -.32em;
+      }
+
+      .cls-121 {
+        letter-spacing: 0em;
+      }
+
+      .cls-122 {
+        letter-spacing: .03em;
+      }
+
+      .cls-123 {
+        letter-spacing: .02em;
+      }
+
+      .cls-124 {
+        letter-spacing: 0em;
+      }
+
+      .cls-125 {
+        letter-spacing: .02em;
+      }
+
+      .cls-126 {
+        letter-spacing: -.01em;
+      }
+
+      .cls-127 {
+        letter-spacing: 0em;
+      }
+
+      .cls-128 {
+        letter-spacing: .02em;
+      }
+
+      .cls-129 {
+        letter-spacing: -.01em;
+      }
+
+      .cls-130 {
+        letter-spacing: 0em;
+      }
+
+      .cls-131 {
+        letter-spacing: -.02em;
+      }
+
+      .cls-132 {
+        letter-spacing: .03em;
+      }
+
+      .cls-133 {
+        letter-spacing: .05em;
+      }
+
+      .cls-134 {
+        letter-spacing: .02em;
+      }
+
+      .cls-19 {
+        letter-spacing: .02em;
+      }
+
+      .cls-135 {
+        letter-spacing: .05em;
+      }
+
+      .cls-136 {
+        letter-spacing: .03em;
+      }
+
+      .cls-64 {
+        stroke: #fff;
+      }
+
+      .cls-64, .cls-65 {
+        stroke-miterlimit: 10;
+      }
+
+      .cls-137 {
+        letter-spacing: .03em;
+      }
+
+      .cls-44 {
+        letter-spacing: .03em;
+      }
+
+      .cls-138 {
+        letter-spacing: 0em;
+      }
+
+      .cls-139 {
+        letter-spacing: .04em;
+      }
+
+      .cls-140 {
+        letter-spacing: -.02em;
+      }
+
+      .cls-141 {
+        letter-spacing: .03em;
+      }
+
+      .cls-142 {
+        font-size: 19px;
+      }
+
+      .cls-20 {
+        letter-spacing: .01em;
+      }
+
+      .cls-143 {
+        letter-spacing: .04em;
+      }
+
+      .cls-144 {
+        letter-spacing: 0em;
+      }
+
+      .cls-145 {
+        letter-spacing: .03em;
+      }
+
+      .cls-146 {
+        letter-spacing: .04em;
+      }
+
+      .cls-147 {
+        letter-spacing: 0em;
+      }
+
+      .cls-148 {
+        letter-spacing: .03em;
+      }
+
+      .cls-149 {
+        letter-spacing: .04em;
+      }
+
+      .cls-150 {
+        letter-spacing: .02em;
+      }
+
+      .cls-114 {
+        font-family: SourceHanSansSC-Light-GBpc-EUC-H, 'Source Han Sans SC';
+        font-size: 8px;
+      }
+
+      .cls-114, .cls-151 {
+        font-weight: 300;
+      }
+
+      .cls-152 {
+        letter-spacing: .04em;
+      }
+
+      .cls-45, .cls-153 {
+        letter-spacing: .06em;
+      }
+
+      .cls-154 {
+        letter-spacing: 0em;
+      }
+
+      .cls-21 {
+        letter-spacing: -.23em;
+      }
+
+      .cls-155 {
+        letter-spacing: .02em;
+      }
+
+      .cls-156 {
+        letter-spacing: 0em;
+      }
+
+      .cls-157 {
+        letter-spacing: .01em;
+      }
+
+      .cls-158 {
+        letter-spacing: .02em;
+      }
+
+      .cls-22 {
+        letter-spacing: -.27em;
+      }
+
+      .cls-159 {
+        letter-spacing: .04em;
+      }
+
+      .cls-160 {
+        letter-spacing: 0em;
+      }
+
+      .cls-161 {
+        letter-spacing: 0em;
+      }
+
+      .cls-65 {
+        stroke: #231815;
+      }
+
+      .cls-162 {
+        letter-spacing: 0em;
+      }
+
+      .cls-163 {
+        letter-spacing: .03em;
+      }
+
+      .cls-164 {
+        letter-spacing: .04em;
+      }
+
+      .cls-165 {
+        letter-spacing: .04em;
+      }
+
+      .cls-166 {
+        letter-spacing: -.03em;
+      }
+
+      .cls-167 {
+        letter-spacing: 0em;
+      }
+
+      .cls-168 {
+        letter-spacing: .02em;
+      }
+
+      .cls-169 {
+        letter-spacing: .02em;
+      }
+
+      .cls-170 {
+        letter-spacing: .02em;
+      }
+
+      .cls-47 {
+        letter-spacing: .02em;
+      }
+
+      .cls-171 {
+        letter-spacing: -.32em;
+      }
+
+      .cls-172 {
+        letter-spacing: 0em;
+      }
+
+      .cls-173 {
+        letter-spacing: .05em;
+      }
+
+      .cls-174 {
+        letter-spacing: -.03em;
+      }
+
+      .cls-175 {
+        letter-spacing: .02em;
+      }
+
+      .cls-24 {
+        letter-spacing: .01em;
+      }
+
+      .cls-115, .cls-26 {
+        font-size: 6px;
+      }
+
+      .cls-48 {
+        letter-spacing: -.27em;
+      }
+
+      .cls-176 {
+        letter-spacing: -.02em;
+      }
+
+      .cls-177 {
+        letter-spacing: .02em;
+      }
+
+      .cls-178 {
+        letter-spacing: .03em;
+      }
+
+      .cls-179 {
+        letter-spacing: -.01em;
+      }
+
+      .cls-25 {
+        letter-spacing: .02em;
+      }
+
+      .cls-180 {
+        letter-spacing: -.02em;
+      }
+
+      .cls-181 {
+        letter-spacing: -.22em;
+      }
+
+      .cls-182 {
+        letter-spacing: .01em;
+      }
+
+      .cls-183 {
+        letter-spacing: -.02em;
+      }
+
+      .cls-184 {
+        letter-spacing: -.03em;
+      }
+
+      .cls-185 {
+        letter-spacing: .04em;
+      }
+
+      .cls-186 {
+        letter-spacing: .01em;
+      }
+
+      .cls-187 {
+        letter-spacing: -.01em;
+      }
+
+      .cls-188 {
+        letter-spacing: .03em;
+      }
+
+      .cls-49 {
+        letter-spacing: .04em;
+      }
+
+      .cls-189 {
+        letter-spacing: 0em;
+      }
+
+      .cls-190 {
+        letter-spacing: -.01em;
+      }
+
+      .cls-191 {
+        letter-spacing: .05em;
+      }
+
+      .cls-192 {
+        letter-spacing: -.02em;
+      }
+
+      .cls-193 {
+        letter-spacing: .02em;
+      }
+
+      .cls-194 {
+        letter-spacing: .01em;
+      }
+
+      .cls-195 {
+        letter-spacing: .03em;
+      }
+
+      .cls-196 {
+        letter-spacing: -.02em;
+      }
+
+      .cls-197 {
+        letter-spacing: .04em;
+      }
+
+      .cls-198 {
+        letter-spacing: .04em;
+      }
+
+      .cls-199 {
+        letter-spacing: .01em;
+      }
+
+      .cls-151 {
+        font-family: AdobeSongStd-Light-GBpc-EUC-H, 'Adobe Song Std';
+      }
+
+      .cls-200 {
+        letter-spacing: -.07em;
+      }
+
+      .cls-201 {
+        letter-spacing: .04em;
+      }
+
+      .cls-202 {
+        letter-spacing: -.01em;
+      }
+
+      .cls-203 {
+        letter-spacing: -.01em;
+      }
+
+      .cls-204 {
+        letter-spacing: .07em;
+      }
+
+      .cls-205 {
+        letter-spacing: .01em;
+      }
+
+      .cls-206 {
+        letter-spacing: .04em;
+      }
+
+      .cls-50 {
+        letter-spacing: .02em;
+      }
+
+      .cls-207 {
+        letter-spacing: .03em;
+      }
+
+      .cls-208 {
+        letter-spacing: 0em;
+      }
+
+      .cls-209 {
+        letter-spacing: .03em;
+      }
+    </style>
+  </defs>
+  <rect class="cls-36" x="-87.87" y="-357.17" width="413.86" height="634.96"/>
+  <path class="cls-57" d="m240.94-139.82s-73.3-3.26-111.36-1.94c-46.78,1.62-132.42,10.86-132.42,10.86V246.36h243.78V-139.82Z"/>
+  <path class="cls-59" d="m240.94-125.82s-59.71-3.67-111.4-2.36c-58.47,1.48-132.37,15.28-132.37,15.28V246.36h243.78V-125.82Z"/>
+  <g>
+    <path class="cls-64" d="m-4.16,252.99c22.57-3.14,67.85-7.63,89.78-10.08,21.93-2.45,59.04-7.48,85.63-9.68"/>
+    <path class="cls-64" d="m-4.15,246.06c22.55-3.17,67.87-7.75,89.8-10.22,21.93-2.47,59.03-7.52,85.6-9.72"/>
+    <path class="cls-64" d="m-4.14,239.14c22.53-3.21,67.89-7.86,89.82-10.36,21.93-2.5,59.02-7.55,85.57-9.76"/>
+    <path class="cls-64" d="m-4.13,232.22c22.51-3.24,67.92-7.98,89.84-10.5,21.92-2.52,59.01-7.58,85.54-9.8"/>
+    <path class="cls-64" d="m-4.13,225.29c22.48-3.28,67.94-8.09,89.86-10.64,21.92-2.55,58.99-7.62,85.51-9.85"/>
+    <path class="cls-64" d="m-4.12,218.37c22.46-3.32,67.96-8.21,89.88-10.78,21.91-2.57,58.98-7.65,85.49-9.89"/>
+    <path class="cls-64" d="m-4.11,211.45c22.44-3.35,67.98-8.32,89.89-10.92,21.91-2.59,58.97-7.68,85.46-9.93"/>
+    <path class="cls-64" d="m-4.11,204.52c22.42-3.39,68-8.44,89.91-11.06,21.91-2.62,58.96-7.72,85.43-9.97"/>
+    <path class="cls-64" d="m-4.1,197.6c22.4-3.42,68.03-8.56,89.93-11.2,21.9-2.64,58.95-7.75,85.4-10.01"/>
+    <path class="cls-64" d="m-4.09,190.68c22.38-3.46,68.05-8.67,89.95-11.34,21.9-2.67,58.94-7.79,85.37-10.06"/>
+    <path class="cls-64" d="m-4.08,183.76c22.35-3.5,68.07-8.79,89.97-11.48,21.9-2.69,58.92-7.82,85.35-10.1"/>
+    <path class="cls-64" d="m-4.08,176.83c22.33-3.53,68.09-8.9,89.99-11.62,21.89-2.72,58.91-7.85,85.32-10.14"/>
+    <path class="cls-64" d="m-4.07,169.91c22.31-3.57,68.12-9.02,90.01-11.76s58.9-7.89,85.29-10.18"/>
+    <path class="cls-64" d="m-4.06,162.99c22.29-3.6,68.14-9.13,90.02-11.9,21.89-2.77,58.89-7.92,85.26-10.23"/>
+    <path class="cls-64" d="m-4.05,156.06c22.27-3.64,68.16-9.25,90.04-12.04,21.88-2.79,58.88-7.95,85.24-10.27"/>
+    <path class="cls-64" d="m-4.05,149.14c22.25-3.68,68.18-9.37,90.06-12.18,21.88-2.82,58.87-7.99,85.21-10.31"/>
+    <path class="cls-64" d="m-4.04,142.22c22.22-3.71,68.21-9.48,90.08-12.32,21.88-2.84,58.85-8.02,85.18-10.35"/>
+    <path class="cls-64" d="m-4.03,135.29c22.2-3.75,68.23-9.6,90.1-12.46,21.87-2.87,58.84-8.05,85.15-10.39"/>
+    <path class="cls-64" d="m-4.03,128.37c22.18-3.78,68.25-9.71,90.12-12.6s58.83-8.09,85.12-10.44"/>
+    <path class="cls-64" d="m-4.02,121.45c22.16-3.82,68.27-9.83,90.14-12.74,21.87-2.92,58.82-8.12,85.1-10.48"/>
+    <path class="cls-64" d="m-4.01,114.53c22.14-3.85,68.29-9.94,90.16-12.89,21.86-2.94,58.81-8.15,85.07-10.52"/>
+    <path class="cls-64" d="m-4,107.6c22.12-3.89,68.32-10.06,90.17-13.03,21.86-2.97,58.8-8.19,85.04-10.56"/>
+    <path class="cls-64" d="m-4,100.68c22.09-3.93,68.34-10.18,90.19-13.17,21.85-2.99,58.79-8.22,85.01-10.61"/>
+    <path class="cls-64" d="m-3.99,93.76c22.07-3.96,68.36-10.29,90.21-13.31,21.85-3.02,58.77-8.25,84.98-10.65"/>
+    <path class="cls-64" d="m-3.98,86.83c22.05-4,68.38-10.41,90.23-13.45,21.85-3.04,58.76-8.29,84.96-10.69"/>
+    <path class="cls-64" d="m-3.97,79.91c22.03-4.03,68.41-10.52,90.25-13.59,21.84-3.06,58.75-8.32,84.93-10.73"/>
+    <path class="cls-64" d="m-3.97,72.99c22.01-4.07,68.43-10.64,90.27-13.73,21.84-3.09,58.74-8.36,84.9-10.78"/>
+    <path class="cls-64" d="m-3.96,66.06c21.99-4.11,68.45-10.75,90.29-13.87,21.84-3.11,58.73-8.39,84.87-10.82"/>
+    <path class="cls-64" d="m-3.95,59.14c21.96-4.14,68.47-10.87,90.31-14.01,21.83-3.14,58.72-8.42,84.85-10.86"/>
+    <path class="cls-64" d="m-3.95,52.22c21.94-4.18,68.49-10.99,90.32-14.15s58.7-8.46,84.82-10.9"/>
+    <path class="cls-64" d="m-3.94,45.3c21.92-4.21,68.52-11.1,90.34-14.29,21.83-3.19,58.69-8.49,84.79-10.94"/>
+    <path class="cls-64" d="m-3.93,38.37c21.9-4.25,68.54-11.22,90.36-14.43s58.68-8.52,84.76-10.99"/>
+    <path class="cls-64" d="m-3.92,31.45c21.88-4.29,68.56-11.33,90.38-14.57,21.82-3.24,58.67-8.56,84.73-11.03"/>
+    <path class="cls-64" d="m-3.92,24.53c21.86-4.32,68.58-11.45,90.4-14.71S145.14,1.22,171.19-1.26"/>
+    <path class="cls-64" d="m-3.91,17.6C17.92,13.24,64.7,6.04,86.51,2.75c21.81-3.29,58.65-8.62,84.68-11.11"/>
+    <path class="cls-64" d="m-3.9,10.68C17.91,6.29,64.73-1,86.53-4.31c21.81-3.31,58.63-8.66,84.65-11.16"/>
+    <path class="cls-64" d="m-3.89,3.76C17.9-.67,64.76-8.04,86.56-11.38s58.62-8.69,84.62-11.2"/>
+  </g>
+  <path id="path5465" class="cls-113" d="m139.8,217.65c-.52,0-.97.12-1.35.36-.38.24-.7.64-.96,1.19l-.35,1.31h7.4v-.02h2.13v.02s0,0,0,0c.22-.37.48-.78.77-1.23.29-.47.63-1.01,1.01-1.63h-8.65,0Zm17.79,0l-8.66.02-.76,2.84h10.54c.11-.41.21-.76.36-1.31.03-.55-.07-.95-.32-1.19-.25-.24-.63-.36-1.16-.36h0Zm2.35.02l-.76,2.84h3.58l.77-2.84h-3.58Zm-23.44,4.57c-.05.2-.11.4-.18.61l-.19.72c-.03.89.48,1.34,1.53,1.34h4.9l-.67,2.41h-5.73l-1.82,2.9,5.97-.04v-.02s2.75-.04,2.75-.04c1.05,0,1.8-.45,2.25-1.34l1.32-4.95h-.04s.02-.05.02-.08c.03-.04.04-.08.05-.11.03-.55-.07-.95-.32-1.19-.1-.1-.22-.17-.37-.23h-9.48,0Zm11.01,0l-2.13,7.95h3.61l.71-2.65h-.02l.83-3.1h5.53l.02-.06c.4-.07.74-.23,1.04-.47.3-.24.57-.59.8-1.06.03-.1.05-.22.09-.34.02-.06.05-.19.07-.27h-10.54,0Zm11.01,0l-2.13,7.93h3.57l2.14-7.93h-3.58Z"/>
+  <text class="cls-114" transform="translate(175.56 218.79)"><tspan x="0" y="0">— Flash drive</tspan><tspan x="0" y="13">— amd64</tspan></text>
+  <line class="cls-58" x1="238.11" x2="0"/>
+  <line class="cls-58" x1="238.11" y1="240.94" x2="0" y2="240.94"/>
+  <line class="cls-58" y1="240.94" x2="0"/>
+  <g class="cls-60">
+    <path class="cls-87" d="m238.11-348.66v1.42h8.5l7.09,5.67,22.68,5.67v29.76l-30.9,6.24-7.37,3.69v1.42h52.44v1.42h0c14.09,0,25.51,11.42,25.51,25.51V-80.79c0,14.09-11.42,25.51-25.51,25.51h0v1.42h-52.44v1.42l7.37,3.69,30.9,6.24V-12.76l-22.68,5.67-7.09,5.67h-8.5v242.36l-4.96,19.84c-1.25,5-5.74,8.51-10.9,8.51H7.09L0,240.94h-52.44v-1.42h0c-14.09,0-25.51-11.42-25.51-25.51V26.93c0-14.09,11.42-25.51,25.51-25.51h0V0H0v-1.42l-7.37-3.69-30.9-6.24v-29.76l22.68-5.67,7.09-5.67H0v-243.78h-8.5l-7.09-5.67-22.68-5.67v-29.76l30.9-6.24L0-347.24v-1.42h238.11m0-1H0c-.55,0-1,.45-1,1v.8l-6.7,3.35-30.77,6.21c-.47.09-.8.5-.8.98v29.76c0,.46.31.86.76.97l22.47,5.62,6.92,5.53c.18.14.4.22.62.22H-1V-53.44h-7.5c-.23,0-.45.08-.62.22l-6.92,5.53-22.47,5.62c-.45.11-.76.51-.76.97V-11.34c0,.48.34.89.8.98L-7.7-4.15-1.4-1h-51.04c-.55,0-1,.45-1,1v.44c-14.16.53-25.51,12.21-25.51,26.49v187.09c0,14.28,11.35,25.97,25.51,26.49v.44c0,.55.45,1,1,1H-.78l6.9,27.59c.11.45.51.76.97.76h215.17c5.62,0,10.5-3.81,11.87-9.27l4.96-19.84c.02-.08.03-.16.03-.24V-.42h7.5c.23,0,.45-.08.62-.22l6.92-5.53,22.47-5.62c.45-.11.76-.51.76-.97v-29.76c0-.48-.34-.89-.8-.98l-30.77-6.21-6.3-3.15h51.04c.55,0,1-.45,1-1v-.44c14.16-.53,25.51-12.21,25.51-26.49v-187.09c0-14.28-11.35-25.97-25.51-26.49v-.44c0-.55-.45-1-1-1h-51.04l6.3-3.15,30.77-6.21c.47-.09.8-.5.8-.98v-29.76c0-.46-.31-.86-.76-.97l-22.47-5.62-6.92-5.53c-.18-.14-.4-.22-.62-.22h-7.5v-.42c0-.55-.45-1-1-1h0Z"/>
+  </g>
+  <line class="cls-65" x1="171.25" y1="-355.3" x2="171.25" y2="277.38"/>
+  <text class="cls-26" transform="translate(7.54 86.8)"><tspan x="0" y="0" xml:space="preserve">                     </tspan></text>
+  <text class="cls-115" transform="translate(7.54 86.08)"><tspan class="cls-13"><tspan class="cls-143" x="0" y="0">A</tspan><tspan class="cls-84" x="3.86" y="0">r</tspan><tspan class="cls-118" x="6.32" y="0">c</tspan><tspan x="9.51" y="0">h </tspan><tspan class="cls-89" x="14.49" y="0">L</tspan><tspan class="cls-92" x="17.89" y="0">i</tspan><tspan class="cls-155" x="19.64" y="0">n</tspan><tspan class="cls-122" x="23.42" y="0">u</tspan><tspan x="27.23" y="0">x </tspan><tspan class="cls-90" x="31.56" y="0">是</tspan><tspan class="cls-56" x="37.78" y="0">一款</tspan><tspan class="cls-139" x="50.24" y="0">轻</tspan><tspan class="cls-133" x="56.48" y="0">量</tspan><tspan class="cls-196" x="62.75" y="0">级</tspan><tspan class="cls-106" x="68.61" y="0">、</tspan><tspan class="cls-169" x="73.05" y="0">高</tspan><tspan class="cls-81" x="79.18" y="0">度</tspan><tspan class="cls-134" x="85.38" y="0">可</tspan><tspan class="cls-95" x="91.52" y="0">定</tspan><tspan class="cls-148" x="97.68" y="0">制</tspan><tspan x="103.89" y="0">的 </tspan><tspan class="cls-89" x="111.23" y="0">L</tspan><tspan class="cls-193" x="114.63" y="0">i</tspan><tspan class="cls-37" x="116.38" y="0">n</tspan><tspan class="cls-122" x="120.16" y="0">u</tspan><tspan x="123.96" y="0">x </tspan><tspan class="cls-137" x="128.3" y="0">操</tspan><tspan class="cls-72" x="134.5" y="0">作</tspan><tspan class="cls-178" x="140.53" y="0">系</tspan><tspan class="cls-129" x="146.73" y="0">统</tspan><tspan x="152.67" y="0">，</tspan></tspan><tspan class="cls-13"><tspan class="cls-199" x="0" y="8.5">专</tspan><tspan class="cls-193" x="6.08" y="8.5">为</tspan><tspan class="cls-207" x="12.18" y="8.5">追</tspan><tspan class="cls-52" x="18.39" y="8.5">求</tspan><tspan class="cls-77" x="24.58" y="8.5">简</tspan><tspan class="cls-167" x="30.68" y="8.5">洁</tspan><tspan class="cls-194" x="36.68" y="8.5">与</tspan><tspan class="cls-165" x="42.76" y="8.5">控</tspan><tspan class="cls-148" x="49.02" y="8.5">制</tspan><tspan class="cls-208" x="55.23" y="8.5">的</tspan><tspan class="cls-199" x="61.27" y="8.5">用</tspan><tspan class="cls-80" x="67.35" y="8.5">户</tspan><tspan class="cls-139" x="73.31" y="8.5">设</tspan><tspan class="cls-73" x="79.55" y="8.5">计</tspan><tspan class="cls-102" x="85.23" y="8.5">。</tspan><tspan class="cls-30" x="89.39" y="8.5">它</tspan><tspan class="cls-149" x="95.46" y="8.5">采</tspan><tspan class="cls-205" x="101.69" y="8.5">用</tspan><tspan class="cls-198" x="107.77" y="8.5">滚</tspan><tspan class="cls-61" x="113.99" y="8.5">动</tspan><tspan class="cls-97" x="120.08" y="8.5">更</tspan><tspan class="cls-30" x="126.24" y="8.5">新</tspan><tspan class="cls-119" x="132.31" y="8.5">模</tspan><tspan class="cls-110" x="138.53" y="8.5">式</tspan><tspan class="cls-68" x="144.51" y="8.5">，</tspan><tspan x="148.93" y="8.5">确</tspan></tspan><tspan class="cls-13"><tspan class="cls-63" x="0" y="17">保</tspan><tspan class="cls-27" x="6.3" y="17">您</tspan><tspan class="cls-1" x="12.53" y="17">始</tspan><tspan class="cls-83" x="18.8" y="17">终</tspan><tspan class="cls-173" x="25" y="17">获</tspan><tspan class="cls-94" x="31.28" y="17">得</tspan><tspan class="cls-27" x="37.47" y="17">最</tspan><tspan class="cls-88" x="43.7" y="17">新的</tspan><tspan class="cls-185" x="55.99" y="17">稳</tspan><tspan class="cls-62" x="62.25" y="17">定</tspan><tspan class="cls-7" x="68.39" y="17">软</tspan><tspan class="cls-91" x="74.54" y="17">件</tspan><tspan x="80.56" y="17">。</tspan></tspan><tspan class="cls-13"><tspan class="cls-168" x="0" y="34">不</tspan><tspan class="cls-32" x="6.15" y="34">同</tspan><tspan class="cls-201" x="12.26" y="34">于</tspan><tspan class="cls-93" x="18.51" y="34">预</tspan><tspan class="cls-133" x="24.69" y="34">装</tspan><tspan class="cls-78" x="30.96" y="34">大</tspan><tspan class="cls-75" x="37.21" y="34">量</tspan><tspan class="cls-97" x="43.27" y="34">软</tspan><tspan class="cls-134" x="49.43" y="34">件</tspan><tspan x="55.56" y="34">的</tspan><tspan class="cls-178" x="61.56" y="34">系</tspan><tspan class="cls-129" x="67.76" y="34">统</tspan><tspan class="cls-181" x="73.69" y="34">，</tspan><tspan class="cls-143" x="78.39" y="34">A</tspan><tspan class="cls-84" x="82.25" y="34">r</tspan><tspan class="cls-118" x="84.71" y="34">c</tspan><tspan x="87.9" y="34">h </tspan><tspan class="cls-89" x="92.89" y="34">L</tspan><tspan class="cls-92" x="96.29" y="34">i</tspan><tspan class="cls-37" x="98.03" y="34">n</tspan><tspan class="cls-195" x="101.81" y="34">u</tspan><tspan x="105.62" y="34">x </tspan><tspan class="cls-133" x="109.95" y="34">仅</tspan><tspan class="cls-55" x="116.22" y="34">提</tspan><tspan class="cls-159" x="122.48" y="34">供</tspan><tspan class="cls-201" x="128.69" y="34">最</tspan><tspan class="cls-177" x="134.94" y="34">精</tspan><tspan class="cls-77" x="141.06" y="34">简</tspan><tspan x="147.16" y="34">的</tspan></tspan><tspan class="cls-13"><tspan class="cls-4" x="0" y="42.5">基</tspan><tspan class="cls-207" x="6.29" y="42.5">础</tspan><tspan class="cls-76" x="12.5" y="42.5">环</tspan><tspan class="cls-124" x="18.49" y="42.5">境</tspan><tspan class="cls-86" x="24.44" y="42.5">，</tspan><tspan class="cls-29" x="28.7" y="42.5">让</tspan><tspan class="cls-179" x="34.95" y="42.5">您</tspan><tspan class="cls-203" x="40.88" y="42.5">自</tspan><tspan class="cls-186" x="46.81" y="42.5">由</tspan><tspan class="cls-78" x="52.88" y="42.5">选</tspan><tspan class="cls-163" x="59.14" y="42.5">择</tspan><tspan class="cls-93" x="65.33" y="42.5">所需</tspan><tspan class="cls-157" x="77.69" y="42.5">组</tspan><tspan class="cls-101" x="83.75" y="42.5">件</tspan><tspan class="cls-98" x="89.52" y="42.5">，</tspan><tspan class="cls-144" x="93.94" y="42.5">打</tspan><tspan class="cls-66" x="99.98" y="42.5">造</tspan><tspan class="cls-108" x="106.18" y="42.5">专</tspan><tspan class="cls-61" x="112.11" y="42.5">属</tspan><tspan class="cls-69" x="118.2" y="42.5">的</tspan><tspan class="cls-141" x="124.35" y="42.5">高</tspan><tspan class="cls-33" x="130.51" y="42.5">效</tspan><tspan class="cls-183" x="136.78" y="42.5">工</tspan><tspan class="cls-148" x="142.65" y="42.5">作</tspan><tspan x="148.86" y="42.5">环</tspan></tspan><tspan class="cls-13"><tspan class="cls-78" x="0" y="51">境</tspan><tspan x="6.25" y="51">。</tspan></tspan><tspan class="cls-11" x="0" y="68">硬件</tspan><tspan class="cls-10" x="12.44" y="68">要</tspan><tspan class="cls-22" x="18.46" y="68">求</tspan><tspan class="cls-23" x="22.81" y="68">（</tspan><tspan class="cls-19" x="28.99" y="68">桌</tspan><tspan class="cls-20" x="35.11" y="68">面</tspan><tspan class="cls-17" x="41.2" y="68">）</tspan><tspan class="cls-21" x="45.29" y="68">：</tspan><tspan class="cls-12" x="49.9" y="68">A</tspan><tspan class="cls-25" x="53.76" y="68">M</tspan><tspan class="cls-13" x="58.73" y="68">D </tspan><tspan class="cls-45" x="64.21" y="68">6</tspan><tspan class="cls-43" x="67.88" y="68">4</tspan><tspan class="cls-13" x="71.21" y="68" xml:space="preserve"> 和 </tspan><tspan class="cls-14" x="79.9" y="68">I</tspan><tspan class="cls-15" x="81.75" y="68">n</tspan><tspan class="cls-24" x="85.51" y="68">t</tspan><tspan class="cls-8" x="87.86" y="68">e</tspan><tspan class="cls-13" x="91.34" y="68">l </tspan><tspan class="cls-45" x="94.39" y="68">6</tspan><tspan class="cls-43" x="98.06" y="68">4</tspan><tspan class="cls-13" x="101.39" y="68"> </tspan><tspan class="cls-18" x="102.73" y="68">处</tspan><tspan class="cls-9" x="109" y="68">理</tspan><tspan class="cls-13" x="115.23" y="68">器</tspan><tspan class="cls-151" x="0" y="76.5" xml:space="preserve">                                        </tspan><tspan class="cls-39" x="49.67" y="76.5">2</tspan><tspan class="cls-49" x="53.23" y="76.5">5</tspan><tspan class="cls-38" x="56.77" y="76.5">6</tspan><tspan class="cls-42" x="60.22" y="76.5">M</tspan><tspan class="cls-43" x="65.18" y="76.5">B </tspan><tspan class="cls-50" x="70.46" y="76.5">内</tspan><tspan class="cls-48" x="76.57" y="76.5">存</tspan><tspan class="cls-44" x="80.98" y="76.5">（</tspan><tspan class="cls-47" x="87.17" y="76.5">推</tspan><tspan class="cls-43" x="93.32" y="76.5">荐 1 </tspan><tspan class="cls-40" x="105.34" y="76.5">G</tspan><tspan class="cls-43" x="109.58" y="76.5">B </tspan><tspan class="cls-41" x="114.87" y="76.5">内</tspan><tspan class="cls-46" x="120.98" y="76.5">存</tspan><tspan class="cls-43" x="126.91" y="76.5">）</tspan><tspan class="cls-43"><tspan x="0" y="85" xml:space="preserve">                                     </tspan><tspan class="cls-189" x="49.72" y="85">1</tspan><tspan x="53.03" y="85">0 </tspan><tspan class="cls-96" x="57.71" y="85">G</tspan><tspan x="61.95" y="85">B </tspan><tspan class="cls-135" x="67.24" y="85">硬</tspan><tspan class="cls-126" x="73.51" y="85">盘</tspan><tspan class="cls-131" x="79.42" y="85">可</tspan><tspan class="cls-124" x="85.31" y="85">用</tspan><tspan x="91.25" y="85">空间</tspan></tspan><tspan class="cls-43"><tspan x="0" y="93.5" xml:space="preserve">                                     </tspan><tspan class="cls-131" x="49.72" y="93.5">可</tspan><tspan class="cls-161" x="55.6" y="93.5">用</tspan><tspan class="cls-160" x="61.64" y="93.5">的</tspan><tspan class="cls-156" x="67.62" y="93.5">互</tspan><tspan class="cls-177" x="73.67" y="93.5">联</tspan><tspan class="cls-169" x="79.8" y="93.5">网</tspan><tspan class="cls-164" x="85.93" y="93.5">连</tspan><tspan x="92.17" y="93.5">接</tspan></tspan><tspan class="cls-43"><tspan class="cls-112" x="0" y="102">安</tspan><tspan class="cls-168" x="6.18" y="102">装</tspan><tspan class="cls-121" x="12.33" y="102">前</tspan><tspan class="cls-150" x="18.34" y="102">请</tspan><tspan class="cls-67" x="24.44" y="102">备</tspan><tspan class="cls-80" x="30.72" y="102">份</tspan><tspan class="cls-137" x="36.68" y="102">重</tspan><tspan class="cls-123" x="42.88" y="102">要</tspan><tspan class="cls-206" x="49.02" y="102">数</tspan><tspan x="55.25" y="102">据</tspan><tspan class="cls-171" x="61.25" y="102">，</tspan><tspan class="cls-205" x="65.34" y="102">谨</tspan><tspan class="cls-141" x="71.42" y="102">慎</tspan><tspan class="cls-199" x="77.59" y="102">分</tspan><tspan class="cls-134" x="83.67" y="102">区</tspan><tspan x="89.81" y="102">。</tspan></tspan><tspan class="cls-43"><tspan class="cls-206" x="0" y="110.5">详</tspan><tspan class="cls-28" x="6.23" y="110.5">细</tspan><tspan class="cls-112" x="12.32" y="110.5">安</tspan><tspan class="cls-78" x="18.5" y="110.5">装</tspan><tspan class="cls-172" x="24.76" y="110.5">指</tspan><tspan class="cls-35" x="30.8" y="110.5">南</tspan><tspan class="cls-107" x="36.79" y="110.5">、</tspan><tspan class="cls-188" x="41.3" y="110.5">发</tspan><tspan class="cls-164" x="47.45" y="110.5">行</tspan><tspan class="cls-175" x="53.69" y="110.5">说</tspan><tspan class="cls-145" x="59.82" y="110.5">明</tspan><tspan class="cls-132" x="65.99" y="110.5">及注</tspan><tspan class="cls-174" x="78.33" y="110.5">意</tspan><tspan class="cls-74" x="84.17" y="110.5">事</tspan><tspan class="cls-31" x="90.3" y="110.5">项</tspan><tspan class="cls-105" x="96.34" y="110.5">请</tspan><tspan class="cls-128" x="102.57" y="110.5">参</tspan><tspan class="cls-147" x="108.67" y="110.5">阅</tspan><tspan class="cls-162" x="114.64" y="110.5">官</tspan><tspan class="cls-103" x="120.7" y="110.5">方</tspan><tspan class="cls-146" x="126.86" y="110.5">文</tspan><tspan class="cls-94" x="133.1" y="110.5">档</tspan><tspan x="139.29" y="110.5">。</tspan></tspan><tspan class="cls-43"><tspan class="cls-202" x="0" y="119">许</tspan><tspan class="cls-192" x="5.91" y="119">可</tspan><tspan class="cls-85" x="11.77" y="119">协议</tspan><tspan x="23.88" y="119">: </tspan><tspan class="cls-96" x="26.89" y="119">G</tspan><tspan class="cls-199" x="31.14" y="119">N</tspan><tspan x="35.55" y="119">U </tspan><tspan class="cls-170" x="41.22" y="119">G</tspan><tspan class="cls-71" x="45.47" y="119">P</tspan><tspan x="49.34" y="119">L </tspan><tspan class="cls-197" x="53.95" y="119">及</tspan><tspan class="cls-176" x="60.19" y="119">其</tspan><tspan class="cls-158" x="66.07" y="119">他</tspan><tspan class="cls-154" x="72.19" y="119">开</tspan><tspan class="cls-205" x="78.16" y="119">源</tspan><tspan class="cls-85" x="84.25" y="119">协</tspan><tspan class="cls-74" x="90.3" y="119">议</tspan><tspan class="cls-116" x="96.44" y="119">，</tspan><tspan class="cls-140" x="100.82" y="119">具</tspan><tspan class="cls-191" x="106.72" y="119">体</tspan><tspan class="cls-100" x="113" y="119">软</tspan><tspan class="cls-138" x="119.08" y="119">件</tspan><tspan class="cls-187" x="125.04" y="119">许</tspan><tspan class="cls-200" x="130.95" y="119">可</tspan><tspan class="cls-180" x="136.55" y="119">可</tspan><tspan class="cls-6" x="142.4" y="119">能</tspan><tspan x="148.51" y="119">有</tspan></tspan><tspan class="cls-43"><tspan class="cls-184" x="0" y="127.5">所</tspan><tspan class="cls-125" x="5.84" y="127.5">不</tspan><tspan class="cls-53" x="11.94" y="127.5">同</tspan><tspan x="18.14" y="127.5">。</tspan></tspan><tspan class="cls-43"><tspan class="cls-51" x="0" y="136">网</tspan><tspan class="cls-61" x="6.12" y="136">站</tspan><tspan class="cls-109" x="12.21" y="136">主</tspan><tspan class="cls-127" x="18.39" y="136">页</tspan><tspan x="24.34" y="136">: </tspan><tspan class="cls-5" x="27.35" y="136">h</tspan><tspan class="cls-153" x="31.08" y="136">t</tspan><tspan class="cls-209" x="33.68" y="136">t</tspan><tspan class="cls-123" x="36.13" y="136">p</tspan><tspan class="cls-136" x="39.99" y="136">s</tspan><tspan class="cls-117" x="42.95" y="136">:</tspan><tspan class="cls-120" x="44.74" y="136">/</tspan><tspan class="cls-99" x="46.8" y="136">/</tspan><tspan class="cls-79" x="49.12" y="136">a</tspan><tspan class="cls-82" x="52.6" y="136">r</tspan><tspan class="cls-34" x="55.04" y="136">c</tspan><tspan class="cls-111" x="58.24" y="136">h</tspan><tspan class="cls-182" x="61.98" y="136">li</tspan><tspan class="cls-104" x="65.46" y="136">n</tspan><tspan class="cls-70" x="69.22" y="136">u</tspan><tspan class="cls-152" x="73.04" y="136">x</tspan><tspan class="cls-5" x="76.3" y="136">.</tspan><tspan class="cls-175" x="78.05" y="136">o</tspan><tspan class="cls-88" x="81.81" y="136">r</tspan><tspan class="cls-204" x="84.29" y="136">g</tspan><tspan x="88.07" y="136">/</tspan></tspan></text>
+  <text class="cls-16" transform="translate(7.54 23.01)"><tspan class="cls-54"><tspan x="0" y="0">A</tspan><tspan class="cls-190" x="9.73" y="0">r</tspan><tspan x="15.76" y="0">ch®️ GN</tspan><tspan class="cls-166" x="67.38" y="0">U</tspan><tspan class="cls-130" x="78.35" y="0">/Linu</tspan><tspan class="cls-75" x="117.18" y="0">x™</tspan><tspan x="125.31" y="0">️</tspan></tspan><tspan class="cls-142"><tspan x="0" y="26">盒装安装媒介</tspan></tspan></text>
+  <path id="path2518" class="cls-3" d="m206.18,13.32c-1.49,3.65-2.39,6.04-4.05,9.59,1.02,1.08,2.27,2.33,4.29,3.75-2.18-.9-3.67-1.8-4.78-2.73-2.12,4.43-5.45,10.74-12.2,22.87,5.3-3.06,9.42-4.95,13.25-5.67-.16-.71-.26-1.47-.25-2.27v-.17c.09-3.4,1.86-6.01,3.95-5.83s3.72,3.08,3.64,6.48c-.02.64-.09,1.25-.21,1.83,3.79.74,7.86,2.62,13.09,5.65-1.03-1.9-1.95-3.61-2.83-5.24-1.39-1.07-2.83-2.47-5.78-3.98,2.03.53,3.48,1.13,4.61,1.81-8.94-16.65-9.67-18.86-12.73-26.06Z"/>
+  <path id="path2518-2" data-name="path2518" class="cls-2" d="m86.79,51.35c-2.71,6.65-4.35,10.99-7.36,17.44,1.85,1.96,4.12,4.25,7.81,6.83-3.97-1.63-6.67-3.27-8.69-4.97-3.86,8.06-9.92,19.54-22.2,41.61,9.65-5.57,17.14-9.01,24.11-10.32-.3-1.29-.47-2.68-.46-4.13v-.31c.16-6.18,3.38-10.94,7.19-10.62s6.77,5.6,6.62,11.79c-.03,1.16-.16,2.28-.39,3.32,6.9,1.35,14.3,4.78,23.82,10.27-1.88-3.46-3.55-6.57-5.15-9.54-2.52-1.95-5.15-4.5-10.51-7.25,3.69.96,6.33,2.06,8.38,3.3-16.27-30.3-17.59-34.32-23.17-47.42Z"/>
+</svg>

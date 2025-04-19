@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 238.11 53.86">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+      }
+
+      .cls-2 {
+        stroke: #e83518;
+        stroke-linejoin: round;
+      }
+
+      .cls-2, .cls-3 {
+        opacity: .1;
+      }
+
+      .cls-2, .cls-4 {
+        fill: none;
+        stroke-width: .5px;
+      }
+
+      .cls-5 {
+        isolation: isolate;
+      }
+
+      .cls-6 {
+        fill: #005aab;
+      }
+
+      .cls-7 {
+        font-family: SourceHanSansSC-Regular-GBpc-EUC-H, 'Source Han Sans SC';
+        font-size: 16px;
+      }
+
+      .cls-7, .cls-8, .cls-9 {
+        fill: #231815;
+      }
+
+      .cls-8 {
+        font-family: SourceHanSansSC-Light-GBpc-EUC-H, 'Source Han Sans SC';
+        font-size: 8px;
+        font-weight: 300;
+      }
+
+      .cls-4 {
+        stroke: #231815;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-10 {
+        mix-blend-mode: overlay;
+      }
+
+      .cls-11 {
+        letter-spacing: -.01em;
+      }
+    </style>
+  </defs>
+  <g class="cls-5">
+    <g id="_图层_1" data-name="图层 1">
+      <rect class="cls-1" x="-87.87" y="-8.5" width="413.86" height="634.96"/>
+      <rect class="cls-10" x="0" y="53.56" width="171.25" height="240.94"/>
+      <line class="cls-2" x1="238.11" y1="53.86" x2="0" y2="53.86"/>
+      <g class="cls-3">
+        <path class="cls-6" d="m238.11,0v1.42h8.5l7.09,5.67,22.68,5.67v29.76l-30.9,6.24-7.37,3.69v1.42h52.44v1.42h0c14.09,0,25.51,11.42,25.51,25.51v187.09c0,14.09-11.42,25.51-25.51,25.51h0v1.42h-52.44v1.42l7.37,3.69,30.9,6.24v29.76l-22.68,5.67-7.09,5.67h-8.5v242.36l-4.96,19.84c-1.25,5-5.74,8.51-10.9,8.51H7.09L0,589.61h-52.44v-1.42h0c-14.09,0-25.51-11.42-25.51-25.51v-187.09c0-14.09,11.42-25.51,25.51-25.51h0v-1.42H0v-1.42l-7.37-3.69-30.9-6.24v-29.76l22.68-5.67,7.09-5.67H0V52.44h-8.5l-7.09-5.67-22.68-5.67V11.34L-7.37,5.1,0,1.42V0h238.11m0-1H0C-.55-1-1-.55-1,0v.8l-6.7,3.35-30.77,6.21c-.47.09-.8.5-.8.98v29.76c0,.46.31.86.76.97l22.47,5.62,6.92,5.53c.18.14.4.22.62.22H-1v241.78h-7.5c-.23,0-.45.08-.62.22l-6.92,5.53-22.47,5.62c-.45.11-.76.51-.76.97v29.76c0,.48.34.89.8.98l30.77,6.21,6.3,3.15h-51.04c-.55,0-1,.45-1,1v.44c-14.16.53-25.51,12.21-25.51,26.49v187.09c0,14.28,11.35,25.97,25.51,26.49v.44c0,.55.45,1,1,1H-.78l6.9,27.59c.11.45.51.76.97.76h215.17c5.62,0,10.5-3.81,11.87-9.27l4.96-19.84c.02-.08.03-.16.03-.24v-241.36h7.5c.23,0,.45-.08.62-.22l6.92-5.53,22.47-5.62c.45-.11.76-.51.76-.97v-29.76c0-.48-.34-.89-.8-.98l-30.77-6.21-6.3-3.15h51.04c.55,0,1-.45,1-1v-.44c14.16-.53,25.51-12.21,25.51-26.49V80.79c0-14.28-11.35-25.97-25.51-26.49v-.44c0-.55-.45-1-1-1h-51.04l6.3-3.15,30.77-6.21c.47-.09.8-.5.8-.98V12.76c0-.46-.31-.86-.76-.97l-22.47-5.62-6.92-5.53c-.18-.14-.4-.22-.62-.22h-7.5V0c0-.55-.45-1-1-1h0Z"/>
+      </g>
+      <line class="cls-4" x1="171.25" y1="-6.64" x2="171.25" y2="626.04"/>
+      <text class="cls-8" transform="translate(175.56 31.48)"><tspan x="0" y="0">— Flash drive</tspan><tspan x="0" y="13">— amd64</tspan></text>
+      <text class="cls-7" transform="translate(7.54 22.48)"><tspan x="0" y="0">A</tspan><tspan class="cls-11" x="9.73" y="0">r</tspan><tspan x="15.76" y="0">ch®️ </tspan></text>
+      <g id="Code128_Debian_" data-name="Code128&amp;lt;Debian&amp;gt;">
+        <rect class="cls-9" x="74.91" y="14.16" width="1.58" height="28.36"/>
+        <rect class="cls-9" x="77.29" y="14.16" width=".79" height="28.36"/>
+        <rect class="cls-9" x="79.66" y="14.16" width=".79" height="28.36"/>
+        <rect class="cls-9" x="83.62" y="14.16" width=".79" height="28.36"/>
+        <rect class="cls-9" x="85.2" y="14.16" width="1.58" height="28.36"/>
+        <rect class="cls-9" x="89.16" y="14.16" width=".79" height="28.36"/>
+        <rect class="cls-9" x="92.32" y="14.16" width=".79" height="28.36"/>
+        <rect class="cls-9" x="93.9" y="14.16" width="1.58" height="28.36"/>
+        <rect class="cls-9" x="97.07" y="14.16" width=".79" height="28.36"/>
+        <rect class="cls-9" x="101.03" y="14.16" width=".79" height="28.36"/>
+        <rect class="cls-9" x="103.4" y="14.16" width=".79" height="28.36"/>
+        <rect class="cls-9" x="107.36" y="14.16" width="1.58" height="28.36"/>
+        <rect class="cls-9" x="109.73" y="14.16" width=".79" height="28.36"/>
+        <rect class="cls-9" x="113.69" y="14.16" width="1.58" height="28.36"/>
+        <rect class="cls-9" x="116.06" y="14.16" width=".79" height="28.36"/>
+        <rect class="cls-9" x="118.43" y="14.16" width=".79" height="28.36"/>
+        <rect class="cls-9" x="120.81" y="14.16" width=".79" height="28.36"/>
+        <rect class="cls-9" x="122.39" y="14.16" width="1.58" height="28.36"/>
+        <rect class="cls-9" x="127.14" y="14.16" width="1.58" height="28.36"/>
+        <rect class="cls-9" x="131.89" y="14.16" width=".79" height="28.36"/>
+        <rect class="cls-9" x="133.47" y="14.16" width=".79" height="28.36"/>
+        <rect class="cls-9" x="135.84" y="14.16" width=".79" height="28.36"/>
+        <rect class="cls-9" x="138.22" y="14.16" width="2.37" height="28.36"/>
+        <rect class="cls-9" x="141.38" y="14.16" width="1.58" height="28.36"/>
+        <rect class="cls-9" x="144.55" y="14.16" width="1.58" height="28.36"/>
+        <rect class="cls-9" x="148.5" y="14.16" width="2.37" height="28.36"/>
+        <rect class="cls-9" x="151.67" y="14.16" width=".79" height="28.36"/>
+        <rect class="cls-9" x="153.25" y="14.16" width="1.58" height="28.36"/>
+      </g>
+    </g>
+  </g>
+</svg>
