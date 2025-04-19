@@ -14,7 +14,7 @@
 \usepackage{xeCJK}
 \CJKfamily{zhsong}
 
-\usepackage[svgcolors]{xcolor}
+\usepackage{xcolor}
 \usepackage{longfbox}
 \usepackage{epstopdf}
 \usepackage{float}
@@ -113,9 +113,9 @@
 	\setlength{\abstractwidth}{2\linewidth}
 	\addtolength{\abstractwidth}{\columnsep}
 	\savebox{\twocolinsert}{\begin{minipage}{\abstractwidth}
-		\noindent 核准日期：2023年06月10日
+		\noindent 核准日期：2025年04月19日
 		\newline 修改日期：2019年07月06日，2020年10月31日，2021年07月04日，
-		\newline 2021年08月14日，2023年06月10日
+		\newline 2021年08月14日，2023年06月10日，2024年10月18日，2025年04月19日
 		\newline
 
 		% \begin{mdframed}[leftline=false, rightline=false, innertopmargin=0pt, innerbottommargin=0pt, innerrightmargin=0pt, innerleftmargin=2em]
@@ -135,12 +135,12 @@
 			\sffamily
 
 			{\centering 警示语 \par}
+   
+			安装 Arch Linux 可能导致磁盘数据永久性丢失。建议在专业技术人员指导下进行操作。（参见【不良反应】）
 
-			无论是否与其它操作系统合用，安装 Debian 均存在丢失磁盘上所有内容的风险。（参见【不良反应】）
+			本系统不包含受专利保护的编解码器及私有固件。用户可通过官方仓库和 AUR 获取额外软件包，安装前请确认符合当地法律法规。
 
-			某些与多媒体相关的软件，特别是允许回放和提供音频、视频操作或类似功能的软件，不被 Debian 包含，这是因为它在世界上的某些地区被认为是非法的。本说明中的信息和意见无意构成法律建议，法律建议可通过咨询律师来获得。
-
-			一些硬件制造商拒绝告诉我们如何给他们的硬件编写驱动程序。另一些则要求签署不公开的契约才能接触相关文档，以阻止我们发布驱动程序源代码这一自由软件的核心内容。由于我们未被授权使用这些文档，因此它们无法在 Linux 下工作。
+			部分硬件因厂商未公开技术规格，可能导致兼容性问题。建议安装前查阅硬件兼容性列表（HCL）。
 		\end{mdframed}
 	\end{minipage}}
 	\setlength{\columnshrink}{\ht\twocolinsert}
@@ -152,9 +152,10 @@
 	\section*{发行版名称}
 	\end{tcolorbox}
 	\begin{tabularx}{\linewidth}{@{}ll@{}}
-		通用名称： & Debian \\
-		正式名称： & Debian GNU/Linux \\
-		英文音标： & \textipa{["dEbi@n]} \\
+		通用名称： & Arch Linux \\
+		正式名称： & Arch GNU/Linux \\
+		版本号：& Rolling \\
+		发行日期：& 2025.04.01 \\
 	\end{tabularx}
 
 	\medskip
@@ -164,7 +165,7 @@
 	\section*{内容}
 	\end{tcolorbox}
 
-	完全由自由软件组成的类 UNIX 操作系统，其包含的多数软件使用 GNU 通用公共许可协议授权，并由 Debian 计划的参与者组成团队对其进行打包、开发与维护。
+	极简主义设计的 Linux 发行版，遵循滚动更新机制。系统组件使用 BSD、MIT、GPL 等多种开源协议授权，由全球开发者社区维护。
 
 	% 内核版本：4.19.0
 
@@ -189,6 +190,7 @@
 	\begin{itemize}
 		\item 支持使用 arm64、amd64、i686、ppc64el、mipsel、s390x 等架构的计算机、服务器和嵌入式设备。
 		\item 本包装盒中的安装媒介适用于何平台以实际为准。
+		\item 鉴于滚动更新发行版的特性，不建议在服务器上使用本产品。
 	\end{itemize}
 
 
@@ -208,19 +210,27 @@
 
 	启动方式根据硬件调整，一般使用 UEFI。
 
-	根据硬件性能和个人需要，调整安装方式：一般而言，使用图形化界面进行安装；否则选择基于 ncurses 命令行下的安装。
+	根据硬件性能和个人需要，调整安装方式：一般而言，使用 Arch Install 进行安装；否则选择基于命令行下的安装。
 
 	安装好基本系统并设置完成软件包后，即可酌情选择桌面环境和桌面管理器。
 
 	\medskip
 
+    \columnbreak
+    \begin{minipage}[t]{\linewidth}
+    \vspace{8.79cm}
+    
 	\begin{tcolorbox}
 	\section*{不良反应}
 	\end{tcolorbox}
 
-	Debian 有一个对用户和开发者所提交的软件缺陷报告进行归档管理的缺陷跟踪系统，英文缩写为 BTS。每个软件缺陷报告都被授予一个编号并且被长期跟踪，直到它被标记为已修复。
+	滚动更新可能导致系统组件依赖冲突，建议：
 
-	可以在 https://www.debian.org/Bugs/ 处获得这个文件的拷贝。
+	\begin{itemize}
+		\item 定期查看 arch-announce 邮件列表
+		\item 更新前查阅 Arch News
+		\item 使用 Timeshift 等备份工具
+	\end{itemize}
 
 	\medskip
 
@@ -294,6 +304,7 @@
 	% \section*{版本迭代}
 	% \end{tcolorbox}
 
+    \end{minipage}
 
 	\begin{tcolorbox}
 	\section*{系统相互作用}
@@ -318,7 +329,7 @@
 	\section*{贮藏}
 	\end{tcolorbox}
 
-	-40℃\textasciitilde +70℃
+	安装媒介建议存放于干燥防磁环境，长期保存温度：-20℃\textasciitilde +50℃
 
 	妥善贮藏所有安装媒介，勿使不会安装的人员触及。
 
@@ -329,7 +340,7 @@
 	\section*{包装}
 	\end{tcolorbox}
 
-	装有 Debian GNU/Linux 安装镜像的、兼容 USB 3.0/2.0 协议的大容量存储设备。
+	装有 Arch GNU/Linux 安装镜像的、兼容 USB 3.0/2.0 协议的大容量存储设备。
 
 	1 枚/盒
 
@@ -384,24 +395,13 @@
 	\begin{tabularx}{\linewidth}{@{}ll@{}}
 		\multirow{2}{*}{}{编审：} & @YukariChiba\\
 		~ & @moesoha \\
+		~ & @Xyber-Nova \\
 		图形: & @YJBeetle\\
-		GitHub: & moesoha/debian-media-box\\
+		GitHub: & moesoha/debian-media-box（原作）\\
+		~ & xyber-nova/arch-media-box（二改）\\
 	\end{tabularx}
 
 	\medskip
-
-
-	\vfill
-	\begin{flushright}
-		Debian GNU/Linux - 12.0\linebreak 20230610
-		\linebreak
-		\newline
-		\begin{minipage}{0,5\textwidth}
-			\centering
-			$\vcenter{\hbox{\includegraphics[height=10mm]{assets/debian-logo.eps}}}$
-			$\vcenter{\hbox{\includegraphics[height=5mm]{assets/debian-text.eps}}}$
-		\end{minipage}
-	\end{flushright}
 
 \end{multicols*}
 \end{document}
